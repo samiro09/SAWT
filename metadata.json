@@ -1,0 +1,8 @@
+{
+  "name": "صوتك - محول النص العربي إلى صوت ذكي",
+  "description": "تطبيق متطور لتحويل النصوص العربية المكتوبة إلى صوت طبيعي بنبرات متنوعة مع التحكم في السرعة والجودة وتحميل ملفات MP3",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
